@@ -1,0 +1,1340 @@
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 800
+WebSocket server settings:
+  - Listen on :800
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+WARNING: no 'numpy' module, HyBi protocol will be slower
+Traceback (most recent call last):
+  File "/home/ubuntu/noVNC/utils/websockify/run", line 5, in <module>
+    websockify.websocketproxy.websockify_init()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocketproxy.py", line 525, in websockify_init
+    server.start_server()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 973, in start_server
+    tcp_keepintvl=self.tcp_keepintvl)
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 741, in socket
+    sock.bind(addrs[0][4])
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 13] Permission denied
+Failed to start WebSockets proxy
+
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 800
+WebSocket server settings:
+  - Listen on :800
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+WARNING: no 'numpy' module, HyBi protocol will be slower
+Traceback (most recent call last):
+  File "/home/ubuntu/noVNC/utils/websockify/run", line 5, in <module>
+    websockify.websocketproxy.websockify_init()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocketproxy.py", line 525, in websockify_init
+    server.start_server()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 973, in start_server
+    tcp_keepintvl=self.tcp_keepintvl)
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 741, in socket
+    sock.bind(addrs[0][4])
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 13] Permission denied
+Failed to start WebSockets proxy
+
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 800
+WebSocket server settings:
+  - Listen on :800
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+WARNING: no 'numpy' module, HyBi protocol will be slower
+Traceback (most recent call last):
+  File "/home/ubuntu/noVNC/utils/websockify/run", line 5, in <module>
+    websockify.websocketproxy.websockify_init()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocketproxy.py", line 525, in websockify_init
+    server.start_server()
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 973, in start_server
+    tcp_keepintvl=self.tcp_keepintvl)
+  File "/home/ubuntu/noVNC/utils/websockify/websockify/websocket.py", line 741, in socket
+    sock.bind(addrs[0][4])
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 13] Permission denied
+Failed to start WebSockets proxy
+
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 09:26:43] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 09:26:43] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 09:26:43] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 09:26:43] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 16:40:00] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 16:40:00] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 16:40:00] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Apr/2016 16:40:00] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:34:56] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:34:56] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:34:56] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:34:56] connecting to: localhost:5900
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:53:46] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:53:46] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:53:46] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [25/Apr/2016 07:53:46] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 02:19:27] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 02:19:27] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 02:19:27] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 02:19:27] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 03:34:54] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 03:34:54] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 03:34:54] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 03:34:54] connecting to: localhost:5900
+handler exception: [Errno 104] Connection reset by peer
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 09:25:47] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 09:25:47] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 09:25:47] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [26/Apr/2016 09:25:47] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 07:09:10] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 07:09:10] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 07:09:10] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 07:09:10] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 10:28:33] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 10:28:33] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 10:28:33] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 10:28:33] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [28/Apr/2016 10:28:37] code 400, message Bad request syntax ("\x88\x8f\xb6'\x90\x02\xb5\xcf\xc4c\xc4@\xf5v\x96D\xfcm\xc5B\xf4")
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:27:38] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:27:38] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:27:38] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:27:38] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:41:39] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:41:39] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:41:39] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 01:41:39] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 03:30:31] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 03:30:31] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 03:30:31] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 03:30:31] connecting to: localhost:5900
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 06:17:33] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 06:17:33] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 06:17:33] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [29/Apr/2016 06:17:33] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-2965981:8080/vnc.html?host=mimichi-mylab-renew-all-2965981&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 10:46:24] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 10:46:24] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 10:46:24] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 10:46:24] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:00:45] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:00:45] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:00:45] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:00:45] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:19:43] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:19:44] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:19:44] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:19:44] connecting to: localhost:5900
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:19] code 404, message File not found
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:22] code 404, message File not found
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:30] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:30] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:30] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:30] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:31] code 400, message Bad request syntax ("\x88\x8f\x89'\xc1k\x8a\xcf\x95")
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:34] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:34] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:34] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:34] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:22:37] code 400, message Bad request syntax ('\x88\x8fc\x8b\xfa\xe3`c\xae\x82\x11\xec\x9f\x97C\xe8\x96\x8c\x10\xee\x9e')
+
+Terminating WebSockets proxy (1823)
+In exit
+Terminating child 5967
+Process Process-39:
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:23:01] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:23:01] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:23:01] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 11:23:01] connecting to: localhost:5900
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:11:41] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:11:41] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:11:41] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:11:41] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:29:10] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:29:10] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:29:10] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:29:10] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:35:23] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:35:23] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:35:23] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/May/2016 12:35:23] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [04/May/2016 10:13:51] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [04/May/2016 10:13:51] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [04/May/2016 10:13:51] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [04/May/2016 10:13:51] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [05/May/2016 06:37:07] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [05/May/2016 06:37:07] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [05/May/2016 06:37:07] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [05/May/2016 06:37:07] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [09/May/2016 13:08:45] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [09/May/2016 13:08:45] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [09/May/2016 13:08:45] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [09/May/2016 13:08:45] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 01:37:21] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 01:37:21] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 01:37:21] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 01:37:21] connecting to: localhost:5900
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 04:30:08] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 04:30:08] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 04:30:08] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 04:30:08] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 16:37:16] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 16:37:16] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 16:37:16] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [10/May/2016 16:37:16] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 02:14:59] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 02:14:59] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 02:14:59] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 02:14:59] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 03:47:26] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 03:47:26] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 03:47:26] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [11/May/2016 03:47:26] connecting to: localhost:5900
+
+Terminating WebSockets proxy (1762)
+In exit
+Terminating child 2908
+Process Process-2:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/May/2016 01:20:54] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/May/2016 01:20:54] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/May/2016 01:20:54] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/May/2016 01:20:54] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [16/May/2016 07:16:51] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [16/May/2016 07:16:51] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [16/May/2016 07:16:51] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [16/May/2016 07:16:51] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [17/May/2016 03:43:06] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [17/May/2016 03:43:06] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [17/May/2016 03:43:06] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [17/May/2016 03:43:06] connecting to: localhost:5900
+handler exception: [Errno 32] Broken pipe
+handler exception: [Errno 32] Broken pipe
+handler exception: [Errno 32] Broken pipe
+handler exception: [Errno 32] Broken pipe
+handler exception: [Errno 104] Connection reset by peer
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [18/May/2016 08:10:26] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [18/May/2016 08:10:26] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [18/May/2016 08:10:26] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [18/May/2016 08:10:26] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [19/May/2016 03:24:10] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [19/May/2016 03:24:10] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [19/May/2016 03:24:10] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [19/May/2016 03:24:10] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 02:53:24] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 02:53:24] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 02:53:24] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 02:53:24] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:04:04] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:04:04] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:04:04] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:04:04] connecting to: localhost:5900
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:08:50] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:08:50] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:08:50] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 04:08:50] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:09:49] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:09:49] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:09:49] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:09:49] connecting to: localhost:5900
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:34:56] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:34:56] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:34:56] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:34:56] connecting to: localhost:5900
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:41:30] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:41:30] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:41:30] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 09:41:30] connecting to: localhost:5900
+handler exception: [Errno 104] Connection reset by peer
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 10:11:39] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 10:11:39] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 10:11:39] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [20/May/2016 10:11:39] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 07:04:00] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 07:04:00] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 07:04:00] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 07:04:00] connecting to: localhost:5900
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:36] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:36] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:36] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:36] connecting to: localhost:5900
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:59] 10.240.0.212: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:59] 10.240.0.212: Version hybi-13, base64: 'False'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:59] 10.240.0.212: Path: '/websockify'
+newclient-gce-ae-126-prod.c.cloud9gce.c9.io.internal - - [23/May/2016 10:13:59] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:28:20] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:28:20] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:28:20] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:28:20] connecting to: localhost:5900
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:23] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:23] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:23] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:23] connecting to: localhost:5900
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:25] code 400, message Bad request syntax ('\x88\x8f7KCC4\xa3\x17"E,&7\x17(/,D.\'')
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:31] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:31] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:31] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:31] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [24/May/2016 02:34:33] code 400, message Bad HTTP/0.9 request type ('\x88\x8fR\x933\xbfQ{g\xde')
+
+Terminating WebSockets proxy (1744)
+In exit
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Port 8080 in use. Try --listen PORT
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/May/2016 08:39:08] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/May/2016 08:39:08] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/May/2016 08:39:08] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [26/May/2016 08:39:08] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 03:01:38] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 03:01:38] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 03:01:38] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 03:01:38] connecting to: localhost:5900
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 07:34:02] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 07:34:02] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 07:34:02] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 07:34:02] connecting to: localhost:5900
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 08:37:42] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 08:37:42] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 08:37:42] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [27/May/2016 08:37:42] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [30/May/2016 03:36:40] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [30/May/2016 03:36:40] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [30/May/2016 03:36:40] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [30/May/2016 03:36:40] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 02:31:53] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 02:31:53] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 02:31:53] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 02:31:53] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 04:28:03] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 04:28:03] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 04:28:03] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [31/May/2016 04:28:03] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 02:49:10] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 02:49:10] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 02:49:10] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 02:49:10] connecting to: localhost:5900
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 10:17:17] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 10:17:17] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 10:17:17] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [01/Jun/2016 10:17:17] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 08:50:39] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 08:50:40] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 08:50:40] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 08:50:40] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 10:01:38] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 10:01:38] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 10:01:38] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [03/Jun/2016 10:01:38] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:46:46] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:46:46] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:46:46] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:46:46] connecting to: localhost:5900
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:57:19] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:57:19] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:57:19] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 03:57:19] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:07:06] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:07:06] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:07:07] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:07:07] connecting to: localhost:5900
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:08:56] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:08:56] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:08:56] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:08:56] connecting to: localhost:5900
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:21:32] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:21:32] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:21:32] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [04/Jun/2016 04:21:32] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 04:08:14] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 04:08:14] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 04:08:14] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 04:08:14] connecting to: localhost:5900
+handler exception: [Errno 104] Connection reset by peer
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 08:21:39] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 08:21:39] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 08:21:39] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 08:21:39] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 13:59:27] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 13:59:27] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 13:59:27] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [06/Jun/2016 13:59:27] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [07/Jun/2016 05:06:03] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [07/Jun/2016 05:06:03] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [07/Jun/2016 05:06:03] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [07/Jun/2016 05:06:03] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 07:46:03] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 07:46:03] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 07:46:03] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 07:46:03] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:00] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:00] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:00] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:00] connecting to: localhost:5900
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:03] code 400, message Bad request syntax ('\x88\x8f\x12I\x16g\x11\xa1B\x06`.s\x132*z\x08a,r')
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:18] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:18] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:18] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:18] connecting to: localhost:5900
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:20] code 400, message Bad request syntax ('\x88\x8f\x96\xed\x9dg\x95\x05\xc9\x06\xe4\x8a\xf8\x13\xb6\x8e\xf1\x08\xe5\x88\xf9')
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:50] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:50] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:50] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [12/Jun/2016 08:02:50] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+WARNING: no 'numpy' module, HyBi protocol will be slower
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [14/Jun/2016 04:08:54] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [14/Jun/2016 04:08:54] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [14/Jun/2016 04:08:54] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [14/Jun/2016 04:08:54] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 04:03:36] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 04:03:36] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 04:03:36] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 04:03:36] connecting to: localhost:5900
+newclient-gce-ae-142-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:09:30] 10.240.0.33: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-142-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:09:30] 10.240.0.33: Version hybi-13, base64: 'False'
+newclient-gce-ae-142-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:09:30] 10.240.0.33: Path: '/websockify'
+newclient-gce-ae-142-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:09:30] connecting to: localhost:5900
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:11:33] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:11:33] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:11:33] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [17/Jun/2016 08:11:33] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [20/Jun/2016 05:02:47] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [20/Jun/2016 05:02:47] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [20/Jun/2016 05:02:47] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [20/Jun/2016 05:02:47] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [21/Jun/2016 04:42:06] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [21/Jun/2016 04:42:06] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [21/Jun/2016 04:42:06] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [21/Jun/2016 04:42:06] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Jun/2016 04:03:39] 10.240.0.136: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Jun/2016 04:03:39] 10.240.0.136: Version hybi-13, base64: 'False'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Jun/2016 04:03:39] 10.240.0.136: Path: '/websockify'
+newclient-gce-ae-79-prod.c.cloud9gce.c9.io.internal - - [22/Jun/2016 04:03:39] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 02:18:51] 10.240.0.213: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 02:18:51] 10.240.0.213: Version hybi-13, base64: 'False'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 02:18:51] 10.240.0.213: Path: '/websockify'
+newclient-gce-ae-127-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 02:18:51] connecting to: localhost:5900
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 03:34:49] 10.240.0.230: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 03:34:49] 10.240.0.230: Version hybi-13, base64: 'False'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 03:34:49] 10.240.0.230: Path: '/websockify'
+newclient-gce-ae-137-prod.c.cloud9gce.c9.io.internal - - [28/Jun/2016 03:34:49] connecting to: localhost:5900
+
+Terminating WebSockets proxy (2097)
+In exit
+Terminating child 2369
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [29/Jun/2016 07:18:19] 10.240.0.157: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [29/Jun/2016 07:18:19] 10.240.0.157: Version hybi-13, base64: 'False'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [29/Jun/2016 07:18:19] 10.240.0.157: Path: '/websockify'
+newclient-gce-ae-140-prod.c.cloud9gce.c9.io.internal - - [29/Jun/2016 07:18:19] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:10] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:10] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:10] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:10] connecting to: localhost:5900
+handler exception: [Errno 111] Connection refused
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:11] 10.240.0.211: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:11] 10.240.0.211: Version hybi-13, base64: 'False'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:11] 10.240.0.211: Path: '/websockify'
+newclient-gce-ae-125-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:11] connecting to: localhost:5900
+handler exception: [Errno 111] Connection refused
+
+Terminating WebSockets proxy (2113)
+In exit
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:29] 10.240.0.240: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:29] 10.240.0.240: Version hybi-13, base64: 'False'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:29] 10.240.0.240: Path: '/websockify'
+newclient-gce-ae-138-prod.c.cloud9gce.c9.io.internal - - [30/Jun/2016 04:15:29] connecting to: localhost:5900
+Warning: could not find self.pem
+Using local websockify at /home/ubuntu/noVNC/utils/websockify/run
+Starting webserver and WebSockets proxy on port 8080
+WebSocket server settings:
+  - Listen on :8080
+  - Flash security policy server
+  - Web server. Web root: /home/ubuntu/noVNC
+  - No SSL/TLS support (no cert file)
+  - proxying from :8080 to localhost:5900
+
+
+Navigate to this URL:
+
+    http://mimichi-mylab-renew-all-android-dev-3076144:8080/vnc.html?host=mimichi-mylab-renew-all-android-dev-3076144&port=8080
+
+Press Ctrl-C to exit
+
+
+WARNING: no 'numpy' module, HyBi protocol will be slower
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:12:19] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:12:19] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:12:19] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:12:19] connecting to: localhost:5900
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:14:08] 10.240.0.214: Plain non-SSL (ws://) WebSocket connection
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:14:08] 10.240.0.214: Version hybi-13, base64: 'False'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:14:08] 10.240.0.214: Path: '/websockify'
+newclient-gce-ae-129-prod.c.cloud9gce.c9.io.internal - - [07/Jul/2016 02:14:08] connecting to: localhost:5900

@@ -1,0 +1,15 @@
+Nautilus
+Terminator
+-forever
+
+
+[program:fluxbox]
+command=fluxbox
+environment=DISPLAY=":99"
+
+[program:openbox]
+command=openbox
+environment=DISPLAY=":99"
+
+
+apt-get install -y --force-yes --no-install-recommends supervisor    openssh-server pwgen sudo vim-tiny  net-tools   lxde x11vnc xvfb         gtk2-engines-murrine ttf-ubuntu-font-family firefox 

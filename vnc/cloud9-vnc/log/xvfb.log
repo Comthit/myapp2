@@ -1,0 +1,3092 @@
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 1
+	If this server is no longer running, remove /tmp/.X1-lock
+	and start again.
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x559e78376458]
+(EE) 1: /usr/bin/Xvfb (0x559e7820c000+0x16e149) [0x559e7837a149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f578feda000+0x10340) [0x7f578feea340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f578edf9da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x559e7837399c]
+(EE) 5: /usr/bin/Xvfb (0x559e7820c000+0x117121) [0x559e78323121]
+(EE) 6: /usr/bin/Xvfb (0x559e7820c000+0x11b25a) [0x559e7832725a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f578ed29ec5]
+(EE) 8: /usr/bin/Xvfb (0x559e7820c000+0x36c3e) [0x559e78242c3e]
+(EE) 
+(EE) Received signal 3 sent by process 1811, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55b5c98f3458]
+(EE) 1: /usr/bin/Xvfb (0x55b5c9789000+0x16e149) [0x55b5c98f7149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f05dab1d000+0x10340) [0x7f05dab2d340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f05d9a3cda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55b5c98f099c]
+(EE) 5: /usr/bin/Xvfb (0x55b5c9789000+0x117121) [0x55b5c98a0121]
+(EE) 6: /usr/bin/Xvfb (0x55b5c9789000+0x11b25a) [0x55b5c98a425a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f05d996cec5]
+(EE) 8: /usr/bin/Xvfb (0x55b5c9789000+0x36c3e) [0x55b5c97bfc3e]
+(EE) 
+(EE) Received signal 3 sent by process 1894, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55ef5b99f458]
+(EE) 1: /usr/bin/Xvfb (0x55ef5b835000+0x16e149) [0x55ef5b9a3149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fca591fa000+0x10340) [0x7fca5920a340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7fca58119460]
+(EE) 4: /usr/bin/Xvfb (0x55ef5b835000+0x171f4c) [0x55ef5b9a6f4c]
+(EE) 5: /usr/bin/Xvfb (0x55ef5b835000+0x16d33d) [0x55ef5b9a233d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x55ef5b9a29f7]
+(EE) 7: /usr/bin/Xvfb (0x55ef5b835000+0x13b2ce) [0x55ef5b9702ce]
+(EE) 8: /usr/bin/Xvfb (0x55ef5b835000+0x1173ce) [0x55ef5b94c3ce]
+(EE) 9: /usr/bin/Xvfb (0x55ef5b835000+0x11b25a) [0x55ef5b95025a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fca58049ec5]
+(EE) 11: /usr/bin/Xvfb (0x55ef5b835000+0x36c3e) [0x55ef5b86bc3e]
+(EE) 
+(EE) Received signal 3 sent by process 1932, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x56392954b458]
+(EE) 1: /usr/bin/Xvfb (0x5639293e1000+0x16e149) [0x56392954f149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fecb6e36000+0x10340) [0x7fecb6e46340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fecb5d55da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x56392954899c]
+(EE) 5: /usr/bin/Xvfb (0x5639293e1000+0x117121) [0x5639294f8121]
+(EE) 6: /usr/bin/Xvfb (0x5639293e1000+0x11b25a) [0x5639294fc25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fecb5c85ec5]
+(EE) 8: /usr/bin/Xvfb (0x5639293e1000+0x36c3e) [0x563929417c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2012, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x56102a408458]
+(EE) 1: /usr/bin/Xvfb (0x56102a29e000+0x16e149) [0x56102a40c149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f5d5a438000+0x10340) [0x7f5d5a448340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f5d59357da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x56102a40599c]
+(EE) 5: /usr/bin/Xvfb (0x56102a29e000+0x117121) [0x56102a3b5121]
+(EE) 6: /usr/bin/Xvfb (0x56102a29e000+0x11b25a) [0x56102a3b925a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f5d59287ec5]
+(EE) 8: /usr/bin/Xvfb (0x56102a29e000+0x36c3e) [0x56102a2d4c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2089, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55a15a644458]
+(EE) 1: /usr/bin/Xvfb (0x55a15a4da000+0x16e149) [0x55a15a648149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7efd305ea000+0x10340) [0x7efd305fa340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7efd2f509da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55a15a64199c]
+(EE) 5: /usr/bin/Xvfb (0x55a15a4da000+0x117121) [0x55a15a5f1121]
+(EE) 6: /usr/bin/Xvfb (0x55a15a4da000+0x11b25a) [0x55a15a5f525a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7efd2f439ec5]
+(EE) 8: /usr/bin/Xvfb (0x55a15a4da000+0x36c3e) [0x55a15a510c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2178, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55c63585e458]
+(EE) 1: /usr/bin/Xvfb (0x55c6356f4000+0x16e149) [0x55c635862149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fdaf5581000+0x10340) [0x7fdaf5591340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fdaf44a0da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55c63585b99c]
+(EE) 5: /usr/bin/Xvfb (0x55c6356f4000+0x117121) [0x55c63580b121]
+(EE) 6: /usr/bin/Xvfb (0x55c6356f4000+0x11b25a) [0x55c63580f25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fdaf43d0ec5]
+(EE) 8: /usr/bin/Xvfb (0x55c6356f4000+0x36c3e) [0x55c63572ac3e]
+(EE) 
+(EE) Received signal 3 sent by process 2251, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x56400d8f1458]
+(EE) 1: /usr/bin/Xvfb (0x56400d787000+0x16e149) [0x56400d8f5149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f1acf42b000+0x10340) [0x7f1acf43b340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f1ace34ada3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x56400d8ee99c]
+(EE) 5: /usr/bin/Xvfb (0x56400d787000+0x117121) [0x56400d89e121]
+(EE) 6: /usr/bin/Xvfb (0x56400d787000+0x11b25a) [0x56400d8a225a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f1ace27aec5]
+(EE) 8: /usr/bin/Xvfb (0x56400d787000+0x36c3e) [0x56400d7bdc3e]
+(EE) 
+(EE) Received signal 3 sent by process 2341, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x561445409458]
+(EE) 1: /usr/bin/Xvfb (0x56144529f000+0x16e149) [0x56144540d149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f40a32db000+0x10340) [0x7f40a32eb340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7f40a21fa460]
+(EE) 4: /usr/bin/Xvfb (0x56144529f000+0x171f4c) [0x561445410f4c]
+(EE) 5: /usr/bin/Xvfb (0x56144529f000+0x16d33d) [0x56144540c33d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x56144540c9f7]
+(EE) 7: /usr/bin/Xvfb (0x56144529f000+0x13b2ce) [0x5614453da2ce]
+(EE) 8: /usr/bin/Xvfb (0x56144529f000+0x1173ce) [0x5614453b63ce]
+(EE) 9: /usr/bin/Xvfb (0x56144529f000+0x11b25a) [0x5614453ba25a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f40a212aec5]
+(EE) 11: /usr/bin/Xvfb (0x56144529f000+0x36c3e) [0x5614452d5c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2432, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x5624b186a458]
+(EE) 1: /usr/bin/Xvfb (0x5624b1700000+0x16e149) [0x5624b186e149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f7178dd0000+0x10340) [0x7f7178de0340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f7177cefda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x5624b186799c]
+(EE) 5: /usr/bin/Xvfb (0x5624b1700000+0x117121) [0x5624b1817121]
+(EE) 6: /usr/bin/Xvfb (0x5624b1700000+0x11b25a) [0x5624b181b25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f7177c1fec5]
+(EE) 8: /usr/bin/Xvfb (0x5624b1700000+0x36c3e) [0x5624b1736c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2522, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55c9469b8458]
+(EE) 1: /usr/bin/Xvfb (0x55c94684e000+0x16e149) [0x55c9469bc149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f1f05088000+0x10340) [0x7f1f05098340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f1f03fa7da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55c9469b599c]
+(EE) 5: /usr/bin/Xvfb (0x55c94684e000+0x117121) [0x55c946965121]
+(EE) 6: /usr/bin/Xvfb (0x55c94684e000+0x11b25a) [0x55c94696925a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f1f03ed7ec5]
+(EE) 8: /usr/bin/Xvfb (0x55c94684e000+0x36c3e) [0x55c946884c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2609, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x5604b4405458]
+(EE) 1: /usr/bin/Xvfb (0x5604b429b000+0x16e149) [0x5604b4409149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7faf99e66000+0x10340) [0x7faf99e76340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7faf98d85da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x5604b440299c]
+(EE) 5: /usr/bin/Xvfb (0x5604b429b000+0x117121) [0x5604b43b2121]
+(EE) 6: /usr/bin/Xvfb (0x5604b429b000+0x11b25a) [0x5604b43b625a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7faf98cb5ec5]
+(EE) 8: /usr/bin/Xvfb (0x5604b429b000+0x36c3e) [0x5604b42d1c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2682, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55e8bca23458]
+(EE) 1: /usr/bin/Xvfb (0x55e8bc8b9000+0x16e149) [0x55e8bca27149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fcb558fb000+0x10340) [0x7fcb5590b340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fcb5481ada3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55e8bca2099c]
+(EE) 5: /usr/bin/Xvfb (0x55e8bc8b9000+0x117121) [0x55e8bc9d0121]
+(EE) 6: /usr/bin/Xvfb (0x55e8bc8b9000+0x11b25a) [0x55e8bc9d425a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fcb5474aec5]
+(EE) 8: /usr/bin/Xvfb (0x55e8bc8b9000+0x36c3e) [0x55e8bc8efc3e]
+(EE) 
+(EE) Received signal 3 sent by process 2765, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55871453c458]
+(EE) 1: /usr/bin/Xvfb (0x5587143d2000+0x16e149) [0x558714540149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fe042333000+0x10340) [0x7fe042343340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fe041252da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55871453999c]
+(EE) 5: /usr/bin/Xvfb (0x5587143d2000+0x117121) [0x5587144e9121]
+(EE) 6: /usr/bin/Xvfb (0x5587143d2000+0x11b25a) [0x5587144ed25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fe041182ec5]
+(EE) 8: /usr/bin/Xvfb (0x5587143d2000+0x36c3e) [0x558714408c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2846, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55a8ea443458]
+(EE) 1: /usr/bin/Xvfb (0x55a8ea2d9000+0x16e149) [0x55a8ea447149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f8af7c90000+0x10340) [0x7f8af7ca0340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f8af6bafda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55a8ea44099c]
+(EE) 5: /usr/bin/Xvfb (0x55a8ea2d9000+0x117121) [0x55a8ea3f0121]
+(EE) 6: /usr/bin/Xvfb (0x55a8ea2d9000+0x11b25a) [0x55a8ea3f425a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f8af6adfec5]
+(EE) 8: /usr/bin/Xvfb (0x55a8ea2d9000+0x36c3e) [0x55a8ea30fc3e]
+(EE) 
+(EE) Received signal 3 sent by process 2924, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55a4eccb0458]
+(EE) 1: /usr/bin/Xvfb (0x55a4ecb46000+0x16e149) [0x55a4eccb4149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f1614186000+0x10340) [0x7f1614196340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7f16130a5460]
+(EE) 4: /usr/bin/Xvfb (0x55a4ecb46000+0x171f4c) [0x55a4eccb7f4c]
+(EE) 5: /usr/bin/Xvfb (0x55a4ecb46000+0x16d33d) [0x55a4eccb333d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x55a4eccb39f7]
+(EE) 7: /usr/bin/Xvfb (0x55a4ecb46000+0x13b2ce) [0x55a4ecc812ce]
+(EE) 8: /usr/bin/Xvfb (0x55a4ecb46000+0x1173ce) [0x55a4ecc5d3ce]
+(EE) 9: /usr/bin/Xvfb (0x55a4ecb46000+0x11b25a) [0x55a4ecc6125a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f1612fd5ec5]
+(EE) 11: /usr/bin/Xvfb (0x55a4ecb46000+0x36c3e) [0x55a4ecb7cc3e]
+(EE) 
+(EE) Received signal 3 sent by process 3074, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55996d530458]
+(EE) 1: /usr/bin/Xvfb (0x55996d3c6000+0x16e149) [0x55996d534149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fc292422000+0x10340) [0x7fc292432340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fc291341da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55996d52d99c]
+(EE) 5: /usr/bin/Xvfb (0x55996d3c6000+0x117121) [0x55996d4dd121]
+(EE) 6: /usr/bin/Xvfb (0x55996d3c6000+0x11b25a) [0x55996d4e125a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fc291271ec5]
+(EE) 8: /usr/bin/Xvfb (0x55996d3c6000+0x36c3e) [0x55996d3fcc3e]
+(EE) 
+(EE) Received signal 3 sent by process 3156, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x5565ae807458]
+(EE) 1: /usr/bin/Xvfb (0x5565ae69d000+0x16e149) [0x5565ae80b149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fd1087aa000+0x10340) [0x7fd1087ba340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7fd1076c9460]
+(EE) 4: /usr/bin/Xvfb (0x5565ae69d000+0x171f4c) [0x5565ae80ef4c]
+(EE) 5: /usr/bin/Xvfb (0x5565ae69d000+0x16d33d) [0x5565ae80a33d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x5565ae80a9f7]
+(EE) 7: /usr/bin/Xvfb (0x5565ae69d000+0x13b2ce) [0x5565ae7d82ce]
+(EE) 8: /usr/bin/Xvfb (0x5565ae69d000+0x1173ce) [0x5565ae7b43ce]
+(EE) 9: /usr/bin/Xvfb (0x5565ae69d000+0x11b25a) [0x5565ae7b825a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fd1075f9ec5]
+(EE) 11: /usr/bin/Xvfb (0x5565ae69d000+0x36c3e) [0x5565ae6d3c3e]
+(EE) 
+(EE) Received signal 3 sent by process 3256, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x565240b83458]
+(EE) 1: /usr/bin/Xvfb (0x565240a19000+0x16e149) [0x565240b87149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fbc5769b000+0x10340) [0x7fbc576ab340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fbc565bada3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x565240b8099c]
+(EE) 5: /usr/bin/Xvfb (0x565240a19000+0x117121) [0x565240b30121]
+(EE) 6: /usr/bin/Xvfb (0x565240a19000+0x11b25a) [0x565240b3425a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fbc564eaec5]
+(EE) 8: /usr/bin/Xvfb (0x565240a19000+0x36c3e) [0x565240a4fc3e]
+(EE) 
+(EE) Received signal 3 sent by process 3343, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55bd4b58f458]
+(EE) 1: /usr/bin/Xvfb (0x55bd4b425000+0x16e149) [0x55bd4b593149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f90f52a6000+0x10340) [0x7f90f52b6340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f90f41c5da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55bd4b58c99c]
+(EE) 5: /usr/bin/Xvfb (0x55bd4b425000+0x117121) [0x55bd4b53c121]
+(EE) 6: /usr/bin/Xvfb (0x55bd4b425000+0x11b25a) [0x55bd4b54025a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f90f40f5ec5]
+(EE) 8: /usr/bin/Xvfb (0x55bd4b425000+0x36c3e) [0x55bd4b45bc3e]
+(EE) 
+(EE) Received signal 3 sent by process 3585, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x558ab685b458]
+(EE) 1: /usr/bin/Xvfb (0x558ab66f1000+0x16e149) [0x558ab685f149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f8cb323f000+0x10340) [0x7f8cb324f340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f8cb215eda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x558ab685899c]
+(EE) 5: /usr/bin/Xvfb (0x558ab66f1000+0x117121) [0x558ab6808121]
+(EE) 6: /usr/bin/Xvfb (0x558ab66f1000+0x11b25a) [0x558ab680c25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f8cb208eec5]
+(EE) 8: /usr/bin/Xvfb (0x558ab66f1000+0x36c3e) [0x558ab6727c3e]
+(EE) 
+(EE) Received signal 3 sent by process 3730, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x56546d20e458]
+(EE) 1: /usr/bin/Xvfb (0x56546d0a4000+0x16e149) [0x56546d212149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7ff616023000+0x10340) [0x7ff616033340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7ff614f42460]
+(EE) 4: /usr/bin/Xvfb (0x56546d0a4000+0x171f4c) [0x56546d215f4c]
+(EE) 5: /usr/bin/Xvfb (0x56546d0a4000+0x16d33d) [0x56546d21133d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x56546d2119f7]
+(EE) 7: /usr/bin/Xvfb (0x56546d0a4000+0x13b2ce) [0x56546d1df2ce]
+(EE) 8: /usr/bin/Xvfb (0x56546d0a4000+0x1173ce) [0x56546d1bb3ce]
+(EE) 9: /usr/bin/Xvfb (0x56546d0a4000+0x11b25a) [0x56546d1bf25a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7ff614e72ec5]
+(EE) 11: /usr/bin/Xvfb (0x56546d0a4000+0x36c3e) [0x56546d0dac3e]
+(EE) 
+(EE) Received signal 3 sent by process 3904, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55607a29a458]
+(EE) 1: /usr/bin/Xvfb (0x55607a130000+0x16e149) [0x55607a29e149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f3b5e191000+0x10340) [0x7f3b5e1a1340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f3b5d0b0da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55607a29799c]
+(EE) 5: /usr/bin/Xvfb (0x55607a130000+0x117121) [0x55607a247121]
+(EE) 6: /usr/bin/Xvfb (0x55607a130000+0x11b25a) [0x55607a24b25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f3b5cfe0ec5]
+(EE) 8: /usr/bin/Xvfb (0x55607a130000+0x36c3e) [0x55607a166c3e]
+(EE) 
+(EE) Received signal 3 sent by process 4018, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55844dea6458]
+(EE) 1: /usr/bin/Xvfb (0x55844dd3c000+0x16e149) [0x55844deaa149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f82d1fc1000+0x10340) [0x7f82d1fd1340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f82d0ee0da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55844dea399c]
+(EE) 5: /usr/bin/Xvfb (0x55844dd3c000+0x117121) [0x55844de53121]
+(EE) 6: /usr/bin/Xvfb (0x55844dd3c000+0x11b25a) [0x55844de5725a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f82d0e10ec5]
+(EE) 8: /usr/bin/Xvfb (0x55844dd3c000+0x36c3e) [0x55844dd72c3e]
+(EE) 
+(EE) Received signal 3 sent by process 4155, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x556b7653d458]
+(EE) 1: /usr/bin/Xvfb (0x556b763d3000+0x16e149) [0x556b76541149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f1c1e85b000+0x10340) [0x7f1c1e86b340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (memset+0xa5) [0x7f1c1d715665]
+(EE) 4: /usr/bin/Xvfb (0x556b763d3000+0x13f9ad) [0x556b765129ad]
+(EE) 5: /usr/bin/Xvfb (CloseDownClient+0x57) [0x556b764e9897]
+(EE) 6: /usr/bin/Xvfb (EstablishNewConnections+0xc5) [0x556b7653e675]
+(EE) 7: /usr/bin/Xvfb (ProcessWorkQueue+0x21) [0x556b764ef051]
+(EE) 8: /usr/bin/Xvfb (WaitForSomething+0x7e) [0x556b7653a86e]
+(EE) 9: /usr/bin/Xvfb (0x556b763d3000+0x117121) [0x556b764ea121]
+(EE) 10: /usr/bin/Xvfb (0x556b763d3000+0x11b25a) [0x556b764ee25a]
+(EE) 11: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f1c1d6aaec5]
+(EE) 12: /usr/bin/Xvfb (0x556b763d3000+0x36c3e) [0x556b76409c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2255, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x557455f0e458]
+(EE) 1: /usr/bin/Xvfb (0x557455da4000+0x16e149) [0x557455f12149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fcbb7154000+0x10340) [0x7fcbb7164340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (setitimer+0x7) [0x7fcbb60363a7]
+(EE) 4: /usr/bin/Xvfb (SmartScheduleStartTimer+0x4c) [0x557455f142ec]
+(EE) 5: /usr/bin/Xvfb (WaitForSomething+0x90c) [0x557455f0c0fc]
+(EE) 6: /usr/bin/Xvfb (0x557455da4000+0x117121) [0x557455ebb121]
+(EE) 7: /usr/bin/Xvfb (0x557455da4000+0x11b25a) [0x557455ebf25a]
+(EE) 8: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fcbb5fa3ec5]
+(EE) 9: /usr/bin/Xvfb (0x557455da4000+0x36c3e) [0x557455ddac3e]
+(EE) 
+(EE) Received signal 3 sent by process 1414, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x558ba664f458]
+(EE) 1: /usr/bin/Xvfb (0x558ba64e5000+0x16e149) [0x558ba6653149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f93639cf000+0x10340) [0x7f93639df340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f93628eeda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x558ba664c99c]
+(EE) 5: /usr/bin/Xvfb (0x558ba64e5000+0x117121) [0x558ba65fc121]
+(EE) 6: /usr/bin/Xvfb (0x558ba64e5000+0x11b25a) [0x558ba660025a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f936281eec5]
+(EE) 8: /usr/bin/Xvfb (0x558ba64e5000+0x36c3e) [0x558ba651bc3e]
+(EE) 
+(EE) Received signal 3 sent by process 1904, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55e5d88ba458]
+(EE) 1: /usr/bin/Xvfb (0x55e5d8750000+0x16e149) [0x55e5d88be149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f42fee27000+0x10340) [0x7f42fee37340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f42fdd46da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55e5d88b799c]
+(EE) 5: /usr/bin/Xvfb (0x55e5d8750000+0x117121) [0x55e5d8867121]
+(EE) 6: /usr/bin/Xvfb (0x55e5d8750000+0x11b25a) [0x55e5d886b25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f42fdc76ec5]
+(EE) 8: /usr/bin/Xvfb (0x55e5d8750000+0x36c3e) [0x55e5d8786c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2637, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x561640058458]
+(EE) 1: /usr/bin/Xvfb (0x56163feee000+0x16e149) [0x56164005c149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f0ecc883000+0x10340) [0x7f0ecc893340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f0ecb7a2da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x56164005599c]
+(EE) 5: /usr/bin/Xvfb (0x56163feee000+0x117121) [0x561640005121]
+(EE) 6: /usr/bin/Xvfb (0x56163feee000+0x11b25a) [0x56164000925a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f0ecb6d2ec5]
+(EE) 8: /usr/bin/Xvfb (0x56163feee000+0x36c3e) [0x56163ff24c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2877, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x560d76c2f458]
+(EE) 1: /usr/bin/Xvfb (0x560d76ac5000+0x16e149) [0x560d76c33149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fe1e517e000+0x10340) [0x7fe1e518e340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fe1e409dda3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x560d76c2c99c]
+(EE) 5: /usr/bin/Xvfb (0x560d76ac5000+0x117121) [0x560d76bdc121]
+(EE) 6: /usr/bin/Xvfb (0x560d76ac5000+0x11b25a) [0x560d76be025a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fe1e3fcdec5]
+(EE) 8: /usr/bin/Xvfb (0x560d76ac5000+0x36c3e) [0x560d76afbc3e]
+(EE) 
+(EE) Received signal 3 sent by process 1805, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x557141949458]
+(EE) 1: /usr/bin/Xvfb (0x5571417df000+0x16e149) [0x55714194d149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7fabcd50a000+0x10340) [0x7fabcd51a340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7fabcc429da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55714194699c]
+(EE) 5: /usr/bin/Xvfb (0x5571417df000+0x117121) [0x5571418f6121]
+(EE) 6: /usr/bin/Xvfb (0x5571417df000+0x11b25a) [0x5571418fa25a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7fabcc359ec5]
+(EE) 8: /usr/bin/Xvfb (0x5571417df000+0x36c3e) [0x557141815c3e]
+(EE) 
+(EE) Received signal 3 sent by process 1744, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55a111b10458]
+(EE) 1: /usr/bin/Xvfb (0x55a1119a6000+0x16e149) [0x55a111b14149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f93e0531000+0x10340) [0x7f93e0541340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (__select+0x33) [0x7f93df450da3]
+(EE) 4: /usr/bin/Xvfb (WaitForSomething+0x1ac) [0x55a111b0d99c]
+(EE) 5: /usr/bin/Xvfb (0x55a1119a6000+0x117121) [0x55a111abd121]
+(EE) 6: /usr/bin/Xvfb (0x55a1119a6000+0x11b25a) [0x55a111ac125a]
+(EE) 7: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f93df380ec5]
+(EE) 8: /usr/bin/Xvfb (0x55a1119a6000+0x36c3e) [0x55a1119dcc3e]
+(EE) 
+(EE) Received signal 3 sent by process 1726, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+(EE) Backtrace:
+(EE) 0: /usr/bin/Xvfb (xorg_backtrace+0x48) [0x55c361bd4458]
+(EE) 1: /usr/bin/Xvfb (0x55c361a6a000+0x16e149) [0x55c361bd8149]
+(EE) 2: /lib/x86_64-linux-gnu/libpthread.so.0 (0x7f3f92526000+0x10340) [0x7f3f92536340]
+(EE) 3: /lib/x86_64-linux-gnu/libc.so.6 (writev+0x60) [0x7f3f91445460]
+(EE) 4: /usr/bin/Xvfb (0x55c361a6a000+0x171f4c) [0x55c361bdbf4c]
+(EE) 5: /usr/bin/Xvfb (0x55c361a6a000+0x16d33d) [0x55c361bd733d]
+(EE) 6: /usr/bin/Xvfb (WriteToClient+0x1b7) [0x55c361bd79f7]
+(EE) 7: /usr/bin/Xvfb (0x55c361a6a000+0x13b2ce) [0x55c361ba52ce]
+(EE) 8: /usr/bin/Xvfb (0x55c361a6a000+0x1173ce) [0x55c361b813ce]
+(EE) 9: /usr/bin/Xvfb (0x55c361a6a000+0x11b25a) [0x55c361b8525a]
+(EE) 10: /lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+0xf5) [0x7f3f91375ec5]
+(EE) 11: /usr/bin/Xvfb (0x55c361a6a000+0x36c3e) [0x55c361aa0c3e]
+(EE) 
+(EE) Received signal 3 sent by process 2079, uid 0
+(EE) 
+Fatal server error:
+(EE) Caught signal 3 (Quit). Server aborting
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+(EE) 
+Fatal server error:
+(EE) Server is already active for display 95
+	If this server is no longer running, remove /tmp/.X95-lock
+	and start again.
+(EE) 
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension DPMS
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension SELinux
+Initializing built-in extension GLX
+[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
+[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!

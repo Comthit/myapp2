@@ -1,0 +1,738 @@
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":99".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:10515): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:10520): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:10522): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:10525): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":99".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1898): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1913): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1915): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1920): Gtk-WARNING **: cannot open display: :
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:3589): Gtk-WARNING **: cannot open display: :1
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":1".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1728): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1729): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1728): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:6502): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:1726): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:2099): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:2120): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:2124): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+
+(lxsession:2129): Gtk-WARNING **: cannot open display: :95
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
+** Message: main.vala:99: Session is (null)
+** Message: main.vala:100: DE is (null)
+** Message: main.vala:104: No session set, fallback to LXDE session
+** Message: main.vala:110: No desktop environnement set, fallback to LXDE
+Xlib:  extension "RANDR" missing on display ":95".
+** Message: main.vala:131: log directory: /home/ubuntu/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ubuntu/.cache/lxsession/LXDE/run.log
